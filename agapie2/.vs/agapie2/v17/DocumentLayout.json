@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\the projects\\graphics\\agapie2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373EE203-98CE-4A48-BA1C-60025A72C0DD}|agapie2\\agapie2.vcxproj|E:\\the projects\\graphics\\agapie2\\agapie2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{373EE203-98CE-4A48-BA1C-60025A72C0DD}|agapie2\\agapie2.vcxproj|solutionrelative:agapie2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "E:\\the projects\\graphics\\agapie2\\agapie2\\FileName.cpp",
+              "RelativeDocumentMoniker": "agapie2\\FileName.cpp",
+              "ToolTip": "E:\\the projects\\graphics\\agapie2\\agapie2\\FileName.cpp",
+              "RelativeToolTip": "agapie2\\FileName.cpp",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAswF0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T16:35:01.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
